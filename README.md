@@ -1,14 +1,14 @@
-# 🌍 JDA – Jeunes Développeurs Africains
+#  JDA – Jeunes Développeurs Africains
 
 ## La plateforme africaine des talents, de l'innovation et de l'impact
 
 JDA est une communauté et une plateforme panafricaine qui rassemble les développeurs, designers, entrepreneurs, innovateurs et créateurs africains pour construire ensemble les solutions de demain.
 
-## 🚀 Notre vision
+##  Notre vision
 
 Faire de JDA la référence africaine en matière d'innovation, de technologie, de collaboration et de développement des talents.
 
-## 🎯 Notre mission
+##  Notre mission
 
 - Connecter les talents africains
 - Transformer les idées en projets
@@ -16,7 +16,7 @@ Faire de JDA la référence africaine en matière d'innovation, de technologie, 
 - Développer les compétences numériques
 - Créer un impact durable pour l'Afrique
 
-## 💡 Fonctionnalités prévues
+##  Fonctionnalités prévues
 
 - Réseau de talents
 - Espace projets
@@ -26,7 +26,7 @@ Faire de JDA la référence africaine en matière d'innovation, de technologie, 
 - Communauté collaborative
 - Assistant IA JDA
 
-## 🤝 Contribuer
+##  Contribuer
 
 Nous accueillons tous les contributeurs :
 
@@ -40,6 +40,6 @@ Nous accueillons tous les contributeurs :
 
 Consultez le fichier CONTRIBUTING.md pour participer.
 
-## 🌍 JDA
+##  JDA
 
 Connecter les talents • Stimuler l'innovation • Transformer l'Afrique
