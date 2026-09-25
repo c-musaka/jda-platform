@@ -43,3 +43,33 @@ Consultez le fichier CONTRIBUTING.md pour participer.
 ##  JDA
 
 Connecter les talents • Stimuler l'innovation • Transformer l'Afrique
+
+Architecture du Projet:
+
+src/
+├── app/                    # Pages et routes Next.js
+│
+├── components/             # Composants réutilisables
+│   ├── ui/                 # Composants Shadcn UI
+│   ├── layout/             # Navbar, Footer...
+│   └── shared/             # Composants communs
+│
+├── features/               # Modules métier
+│   ├── auth/
+│   ├── profile/
+│   ├── talents/
+│   ├── projects/
+│   ├── community/
+│   └── dashboard/
+│
+├── lib/                    # Configuration Supabase
+│
+├── hooks/                  # Hooks React
+│
+├── services/               # Appels API
+│
+├── types/                  # Types TypeScript
+│
+├── constants/              # Constantes globales
+│
+└── utils/                  # Fonctions utilitaires
