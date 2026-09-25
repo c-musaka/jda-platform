@@ -44,32 +44,54 @@ Consultez le fichier CONTRIBUTING.md pour participer.
 
 Connecter les talents • Stimuler l'innovation • Transformer l'Afrique
 
-Architecture du Projet:
+Technologies Utilisées
+Frontend
+- Next.js 15
+- TypeScript
+- CSS Vent arrière
+- Shadcn UI
+- Mouvement Framer
+Backend
+- Supabase
+- PostgreSQL
+Déploiement
+- Vercel
+Gestion du Projet
+- GitHub
+- Problèmes sur GitHub
+- Projets GitHub
+Feuille de route V1
+Page d’accueil
+- Navbar
+- Section des héros
+- Vision & Mission
+- Domaines d’innovation
+- Pied de page
+Authentification
+- Inscription
+- Connexion
+- Gestion des sessions
+Profils
+- Création du profil
+- Modification du profil
+Talents
+- Annuaire des talents
+- Recherche
+Projets
+- Publication de projets
+- Liste des projets
+Communauté
+- Publications
+- Commentaires
+Contributeurs Bêta
+- Insigne
+- Page dédiée
+Comment Contribuer
+1. Fork du projet
+2. Créer une branche
+git checkout -b feature/nom-feature
 
-src/
-├── app/                    # Pages et routes Next.js
-│
-├── components/             # Composants réutilisables
-│   ├── ui/                 # Composants Shadcn UI
-│   ├── layout/             # Navbar, Footer...
-│   └── shared/             # Composants communs
-│
-├── features/               # Modules métier
-│   ├── auth/
-│   ├── profile/
-│   ├── talents/
-│   ├── projects/
-│   ├── community/
-│   └── dashboard/
-│
-├── lib/                    # Configuration Supabase
-│
-├── hooks/                  # Hooks React
-│
-├── services/               # Appels API
-│
-├── types/                  # Types TypeScript
-│
-├── constants/              # Constantes globales
-│
-└── utils/                  # Fonctions utilitaires
+3. Développer la fonctionnalité
+4. Ouvrir une Pull Request
+Contributeurs Bêta
+Les personnes ayant participé à la création de la première version de JDA seront reconnues sur la plateforme comme Contributeurs Bêta Fondateurs.
